@@ -21,5 +21,3 @@ common/autoinstallers/*/.npmrc
 .idea
 .vscode
 
-# Built js libs
-/*/*/lib
